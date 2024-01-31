@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav_head{
+    
+    height: 100px;
+    width: 100%;
+    background-color: rgb(28, 9, 95);
+    
+}
+.nav_link{
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+.nav_link a{
+    text-decoration: none;
+    color: white;
+}
+#h1{
+    margin-right:71px;
+    
+}
+#h2{
+    margin-right:65px;
+    
+}
+#h3{
+    margin-right:71px;
+    
+}
+#h4{
+    margin-right:71px;
+    
+}
+.row{
+    height: 500px;
+    width: 100%;
+    background-image: url(images/pexels-chait-goli-1796706.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textblock{
+    margin-left: 110px;
+    
+    
+  }
+  .partext{
+    color: #150b4e;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+    text-align: center;
+  }
+  #p1{
+    color: rgb(86, 83, 83);
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+  }
